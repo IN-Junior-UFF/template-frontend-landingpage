@@ -1,1 +1,1 @@
-
+Este repositório serve como o template oficial de projetos Front-end para a INJunior. Seu objetivo principal é ser uma ferramenta educacional, de avaliação e de padronização para membros e trainees, garantindo que todos os projetos da empresa júnior mantenham um alto nível de qualidade, coerência e boas práticas de desenvolvimento.
